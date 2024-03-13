@@ -9,7 +9,7 @@ banner:
   height: '500px'
 ---
 
-Esta colección es de juegos autojugados. Estos son juegos de simulación en los que partes importantes de la jugabilidad se delegan a la máquina o que simplemente son jugados enteramente por esta. Este tipo de juegos tienen sus inicios en 1970, cuando John Conway propuso su modelo de autómatas celulares llamado Game of Life. En Game of Life, establecemos los parámetros iniciales de la simulación y luego esta funciona por su propia cuenta, potencialmente de manera infinita. Los juegos autojugados siguen este espíritu y se juegan de manera automatizada.
+Esta es una colección de juegos autojugados. Estos son juegos de simulación en los que partes importantes de la jugabilidad se delegan a la máquina o que simplemente son jugados enteramente por esta. Este tipo de juegos tienen sus inicios en 1970, cuando John Conway propuso su modelo de autómatas celulares llamado Game of Life. En Game of Life, establecemos los parámetros iniciales de la simulación y luego esta funciona por su propia cuenta, potencialmente de manera infinita. Los juegos autojugados siguen este espíritu y se juegan de manera automatizada.
 
 ### Construcción de los metadatos
 Los metadatos de la colección se construyeron siguiendo el siguiente protocolo:
