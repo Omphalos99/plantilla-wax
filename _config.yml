@@ -17,9 +17,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Plantilla Wax'
-description:      'Colecciones Digitales'
-url:              'https://srsergiorodriguez.github.io' # Reemplazar por cuenta de github propia
+title:            'Juegos autojugados'
+description:      'Una colección de juegos con un grado alto de automatización en su gameplay.'
+url:              'https://Omphalos99.github.io' # Reemplazar por cuenta de github propia
 baseurl:          '/plantilla-wax' # Reemplazar por nombre del repositorio
 copyright:        'Derechos reservados, 2024'
 logo:             '/assets/logo.png'
@@ -82,8 +82,8 @@ search:
       america: # OJO: Cambiar por nombre de la colección
         content: false
         fields: # Metadatos que se indexarán
-          - nombre
-          - autor
+          - label
+          - desarrollador
           - fecha
 
 # --------------------------------------------------------------
