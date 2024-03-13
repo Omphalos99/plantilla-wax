@@ -20,7 +20,7 @@ Los metadatos de la colección se construyeron siguiendo el siguiente protocolo:
 
 -plataforma: sistema en el que funciona el videojuego. Descrito con el nombre del sistema (dato categórico).
 
--
+-motor de juego: entorno de desarrollo que proporciona herramientas para la creación del videojuego. Descrito con el nombre del motor de juego (dato categórico). 
 
 
 Plantilla para colecciones en Wax: [Documentación](https://minicomp.github.io/wiki/#/wax/).
