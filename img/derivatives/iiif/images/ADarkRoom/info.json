@@ -1,27 +1,24 @@
 ---
 layout: none
 ---
----
-layout: none
----
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/AdriaenCollaert",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/ADarkRoom",
   "protocol": "http://iiif.io/api/image",
-  "width": 5110,
-  "height": 4168,
+  "width": 800,
+  "height": 192,
   "sizes": [
     {
-      "width": 5110,
-      "height": 4168
+      "width": 800,
+      "height": 192
     },
     {
       "width": 250,
-      "height": 204
+      "height": 60
     },
     {
       "width": 1140,
-      "height": 930
+      "height": 274
     }
   ],
   "profile": [

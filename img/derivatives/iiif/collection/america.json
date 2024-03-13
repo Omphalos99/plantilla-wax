@@ -8,6 +8,11 @@ layout: none
   "label": "america",
   "manifests": [
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ADarkRoom/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ADarkRoom"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/AdriaenCollaert/manifest.json",
       "@type": "sc:Manifest",
       "label": "AdriaenCollaert"
