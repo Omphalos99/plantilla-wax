@@ -7,7 +7,7 @@ plataforma: Web,iOS,Android
 order: '5'
 layout: plantilla_item
 collection: america
-thumbnail: "/img/derivatives/simple/UniversalPaperclips/thumbnail.jpg"
-full: "/img/derivatives/simple/UniversalPaperclips/fullwidth.jpg"
+thumbnail: "/img/derivatives/iiif/images/UniversalPaperclips/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/UniversalPaperclips/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/UniversalPaperclips/manifest.json"
 ---

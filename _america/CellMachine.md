@@ -8,7 +8,7 @@ motor_de_juego: Unity
 order: '7'
 layout: plantilla_item
 collection: america
-thumbnail: "/img/derivatives/simple/CellMachine/thumbnail.jpg"
-full: "/img/derivatives/simple/CellMachine/fullwidth.jpg"
+thumbnail: "/img/derivatives/iiif/images/CellMachine/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/CellMachine/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/CellMachine/manifest.json"
 ---

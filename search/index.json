@@ -9,7 +9,7 @@ layout: none
     "desarrollador": "Doublespeak Games",
     "plataforma": "Web,Android,iOS,NintendoSwitch",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/ADarkRoom/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/ADarkRoom/full/250,/0/default.jpg",
     "permalink": "/america/ADarkRoom",
     "lunr_id": 0
   },
@@ -20,7 +20,7 @@ layout: none
     "desarrollador": "Sam Hogan",
     "plataforma": "Web,Windows",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/CellMachine/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/CellMachine/full/250,/0/default.jpg",
     "permalink": "/america/CellMachine",
     "lunr_id": 1
   },
@@ -31,7 +31,7 @@ layout: none
     "desarrollador": "Julien Thiennot",
     "plataforma": "Web,Android,Windows,MacOS,iOS",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/CookieClicker_img_02/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/CookieClicker_img_01/full/250,/0/default.jpg",
     "permalink": "/america/CookieClicker_img",
     "lunr_id": 2
   },
@@ -42,7 +42,7 @@ layout: none
     "desarrollador": "David OReilly",
     "plataforma": "Windows,MacOS,PlayStation4,Linux,NintendoSwitch",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/Everything/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/Everything/full/250,/0/default.jpg",
     "permalink": "/america/Everything",
     "lunr_id": 3
   },
@@ -52,7 +52,7 @@ layout: none
     "fecha": "1970",
     "desarrollador": "John Conway",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/GameOfLife_img_02/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/GameOfLife_img_01/full/250,/0/default.jpg",
     "permalink": "/america/GameOfLife_img",
     "lunr_id": 4
   },
@@ -63,7 +63,7 @@ layout: none
     "desarrollador": "David OReilly",
     "plataforma": "Windows,OSX,Linux,iOS",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/Mountain/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/Mountain/full/250,/0/default.jpg",
     "permalink": "/america/Mountain",
     "lunr_id": 5
   },
@@ -74,7 +74,7 @@ layout: none
     "desarrollador": "Eric Fredricksen",
     "plataforma": "Windows,Linux",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/ProgressQuest/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/ProgressQuest/full/250,/0/default.jpg",
     "permalink": "/america/ProgressQuest",
     "lunr_id": 6
   },
@@ -85,7 +85,7 @@ layout: none
     "desarrollador": "Frank Lantz",
     "plataforma": "Web,iOS,Android",
     "collection": "america",
-    "thumbnail": "/img/derivatives/simple/UniversalPaperclips/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/UniversalPaperclips/full/250,/0/default.jpg",
     "permalink": "/america/UniversalPaperclips",
     "lunr_id": 7
   }
