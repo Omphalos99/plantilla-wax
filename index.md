@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: america
-  pid: PhilipsGalle
+  pid: Everything
   y: 25%
   clickable: yes
   height: '500px'
