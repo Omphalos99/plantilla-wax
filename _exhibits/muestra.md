@@ -16,7 +16,7 @@ Este es otro párrafo de texto.[^2] Sed luctus, massa eget pharetra posuere, nib
 
 Este es un ejemplo de imagen con formato de recuadro:
 
-{% include inline_image.html collection='america' pid='PhilipsGalle2' clickable='true' %}
+{% include inline_image.html collection='america' pid='Everything' clickable='true' %}
 
 Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
 
