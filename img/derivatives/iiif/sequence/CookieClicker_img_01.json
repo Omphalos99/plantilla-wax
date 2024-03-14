@@ -1,0 +1,66 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/CookieClicker_img_01.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/CookieClicker_img_01.json",
+      "label": "Page 1",
+      "width": 1024,
+      "height": 1024,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CookieClicker_img_01/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/CookieClicker_img_01.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CookieClicker_img_01/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CookieClicker_img_01",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 512,
+            "height": 512
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/CookieClicker_img_01.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/CookieClicker_img_02.json",
+      "label": "Page 2",
+      "width": 600,
+      "height": 336,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CookieClicker_img_02/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/CookieClicker_img_02.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CookieClicker_img_02/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/CookieClicker_img_02",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 300,
+            "height": 168
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/CookieClicker_img_02.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

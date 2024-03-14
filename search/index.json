@@ -1,0 +1,85 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "ADarkRoom",
+    "label": "ADarkRoom",
+    "fecha": "2013",
+    "desarrollador": "Doublespeak Games",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/ADarkRoom/full/250,/0/default.jpg",
+    "permalink": "/america/ADarkRoom",
+    "lunr_id": 0
+  },
+  {
+    "pid": "CellMachine",
+    "label": "CellMachine",
+    "fecha": "2020",
+    "desarrollador": "Sam Hogan",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/CellMachine/full/250,/0/default.jpg",
+    "permalink": "/america/CellMachine",
+    "lunr_id": 1
+  },
+  {
+    "pid": "CookieClicker_img",
+    "label": "CookieClicker",
+    "fecha": "2013",
+    "desarrollador": "Julien Thiennot",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/CookieClicker_img_01/full/250,/0/default.jpg",
+    "permalink": "/america/CookieClicker_img",
+    "lunr_id": 2
+  },
+  {
+    "pid": "Everything",
+    "label": "Everything",
+    "fecha": "2017",
+    "desarrollador": "David OReilly",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/Everything/full/250,/0/default.jpg",
+    "permalink": "/america/Everything",
+    "lunr_id": 3
+  },
+  {
+    "pid": "GameOfLife_img",
+    "label": "GameOfLife",
+    "fecha": "1970",
+    "desarrollador": "John Conway",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/GameOfLife_img_01/full/250,/0/default.jpg",
+    "permalink": "/america/GameOfLife_img",
+    "lunr_id": 4
+  },
+  {
+    "pid": "Mountain",
+    "label": "Mountain",
+    "fecha": "2014",
+    "desarrollador": "David OReilly",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/Mountain/full/250,/0/default.jpg",
+    "permalink": "/america/Mountain",
+    "lunr_id": 5
+  },
+  {
+    "pid": "ProgressQuest",
+    "label": "ProgressQuest",
+    "fecha": "2002",
+    "desarrollador": "Eric Fredricksen",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/ProgressQuest/full/250,/0/default.jpg",
+    "permalink": "/america/ProgressQuest",
+    "lunr_id": 6
+  },
+  {
+    "pid": "UniversalPaperclips",
+    "label": "UniversalPaperclips",
+    "fecha": "2017",
+    "desarrollador": "Frank Lantz",
+    "collection": "america",
+    "thumbnail": "/img/derivatives/iiif/images/UniversalPaperclips/full/250,/0/default.jpg",
+    "permalink": "/america/UniversalPaperclips",
+    "lunr_id": 7
+  }
+]

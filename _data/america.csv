@@ -1,9 +1,9 @@
-pid,label,fecha,desarrollador,plataforma,motor de juego
-Everything,Everything,2017,David OReilly,"Windows,MacOS,PlayStation4,Linux,NintendoSwitch",Unity
-CookieClicker_img,CookieClicker,2013,Julien Thiennot,"Web,Android,Windows,MacOS,iOS",
-GameOfLife_img,GameOfLife,1970,John Conway,,
-Mountain,Mountain,2014,David OReilly,"Windows,OSX,Linux,iOS",Unity
-ProgressQuest,ProgressQuest,2002,Eric Fredricksen,"Windows,Linux",
-UniversalPaperclips,UniversalPaperclips,2017,Frank Lantz,"Web,iOS,Android",
-ADarkRoom,ADarkRoom,2013,Doublespeak Games,"Web,Android,iOS,NintendoSwitch",
-CellMachine,CellMachine,2020,Sam Hogan,"Web,Windows",Unity
+pid,label,fecha,desarrollador,plataforma,motor de juego,order,layout,collection,thumbnail,full,manifest
+Everything,Everything,2017,David OReilly,"Windows,MacOS,PlayStation4,Linux,NintendoSwitch",Unity,0,plantilla_item,america,"/img/derivatives/iiif/images/Everything/full/250,/0/default.jpg","/img/derivatives/iiif/images/Everything/full/1140,/0/default.jpg",/img/derivatives/iiif/Everything/manifest.json
+CookieClicker_img,CookieClicker,2013,Julien Thiennot,"Web,Android,Windows,MacOS,iOS","",1,plantilla_item,america,"/img/derivatives/iiif/images/CookieClicker_img_01/full/250,/0/default.jpg","/img/derivatives/iiif/images/CookieClicker_img_01/full/1140,/0/default.jpg",/img/derivatives/iiif/CookieClicker_img/manifest.json
+GameOfLife_img,GameOfLife,1970,John Conway,"","",2,plantilla_item,america,"/img/derivatives/iiif/images/GameOfLife_img_01/full/250,/0/default.jpg","/img/derivatives/iiif/images/GameOfLife_img_01/full/1140,/0/default.jpg",/img/derivatives/iiif/GameOfLife_img/manifest.json
+Mountain,Mountain,2014,David OReilly,"Windows,OSX,Linux,iOS",Unity,3,plantilla_item,america,"/img/derivatives/iiif/images/Mountain/full/250,/0/default.jpg","/img/derivatives/iiif/images/Mountain/full/1140,/0/default.jpg",/img/derivatives/iiif/Mountain/manifest.json
+ProgressQuest,ProgressQuest,2002,Eric Fredricksen,"Windows,Linux","",4,plantilla_item,america,"/img/derivatives/iiif/images/ProgressQuest/full/250,/0/default.jpg","/img/derivatives/iiif/images/ProgressQuest/full/1140,/0/default.jpg",/img/derivatives/iiif/ProgressQuest/manifest.json
+UniversalPaperclips,UniversalPaperclips,2017,Frank Lantz,"Web,iOS,Android","",5,plantilla_item,america,"/img/derivatives/iiif/images/UniversalPaperclips/full/250,/0/default.jpg","/img/derivatives/iiif/images/UniversalPaperclips/full/1140,/0/default.jpg",/img/derivatives/iiif/UniversalPaperclips/manifest.json
+ADarkRoom,ADarkRoom,2013,Doublespeak Games,"Web,Android,iOS,NintendoSwitch","",6,plantilla_item,america,"/img/derivatives/iiif/images/ADarkRoom/full/250,/0/default.jpg","/img/derivatives/iiif/images/ADarkRoom/full/1140,/0/default.jpg",/img/derivatives/iiif/ADarkRoom/manifest.json
+CellMachine,CellMachine,2020,Sam Hogan,"Web,Windows",Unity,7,plantilla_item,america,"/img/derivatives/iiif/images/CellMachine/full/250,/0/default.jpg","/img/derivatives/iiif/images/CellMachine/full/1140,/0/default.jpg",/img/derivatives/iiif/CellMachine/manifest.json
