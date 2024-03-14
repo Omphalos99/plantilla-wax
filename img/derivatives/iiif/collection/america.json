@@ -1,0 +1,51 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/america.json",
+  "@type": "sc:Collection",
+  "label": "america",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ADarkRoom/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ADarkRoom"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CellMachine/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CellMachine"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/CookieClicker_img/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "CookieClicker_img"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Everything/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Everything"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/GameOfLife_img/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "GameOfLife_img"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Mountain/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Mountain"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ProgressQuest/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ProgressQuest"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/UniversalPaperclips/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "UniversalPaperclips"
+    }
+  ]
+}
