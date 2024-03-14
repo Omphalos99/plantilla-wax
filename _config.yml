@@ -85,6 +85,7 @@ search:
           - label
           - desarrollador
           - fecha
+          - plataforma
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
